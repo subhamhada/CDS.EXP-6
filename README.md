@@ -6,9 +6,9 @@ Loops are used to make the program less repetitive and compact ny iterating a pa
 
 Types of loops:-
 
-a) *for loop*
+a) *For Loop*
 
-b) *while/do-while loop*
+b) *While/Do-While Loop*
 
 ### A) For Loop -
  A "for" loop is a control flow statement used to repeat a block of code a certain number of times. 
