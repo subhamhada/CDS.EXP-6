@@ -183,3 +183,10 @@ int main()
     cout<<endl;
 }
 ```
+
+## Conclusion:-
+Loops allow repetitive execution of code. A for loop iterates over a sequence and is used when the number of iterations is known.
+
+A while loop runs as long as a condition is true, useful for uncertain iteration counts.
+
+Nested loops enable complex iteration, such as iterating over multi-dimensional arrays. Each type offers different control and flexibility for managing code flow.
